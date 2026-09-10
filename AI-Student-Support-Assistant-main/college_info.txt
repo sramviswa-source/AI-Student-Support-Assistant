@@ -1,0 +1,1068 @@
+============================================================
+COLLEGE KNOWLEDGE BASE
+AI STUDENT SUPPORT ASSISTANT
+============================================================
+
+DOCUMENT TYPE:
+College Information and Student Support Knowledge Base
+
+PURPOSE:
+This document contains general information about the college,
+academic departments, campus facilities, working hours,
+laboratories, library, transportation, examinations, attendance,
+placements, student services, and campus rules.
+
+The AI Student Support Assistant should use this knowledge base
+to answer student questions.
+
+The assistant must not invent information that is not available
+in this document.
+
+
+============================================================
+1. COLLEGE OVERVIEW
+============================================================
+
+College Name:
+Jayaraj Annapackiam CSI College Of Engineering
+
+Location:
+Tuticorin, Tamil Nadu, India
+
+The college is a higher education institution providing
+undergraduate engineering and technology programs.
+
+The campus provides academic facilities, computer laboratories,
+engineering laboratories, library services, transportation,
+placement assistance, sports facilities, student clubs, and
+other support services.
+
+The college promotes technical education, practical learning,
+professional development, innovation, and career development.
+
+
+============================================================
+2. CAMPUS WORKING HOURS
+============================================================
+
+General College Working Hours:
+9:00 AM to 4:00 PM
+
+Working Days:
+Monday to Friday
+
+Saturday:
+Closed
+
+Sunday:
+Closed
+
+The normal academic working hours of the college are from
+9:00 AM to 4:00 PM, Monday through Friday.
+
+Students are expected to attend classes, laboratory sessions,
+and other academic activities according to their department
+timetable.
+
+Administrative offices generally operate during the regular
+college working hours.
+
+Special events, examinations, placement activities, workshops,
+seminars, and other programs may have different timings.
+
+Students should follow the timing communicated by the concerned
+department for special activities.
+
+
+============================================================
+3. ACADEMIC DEPARTMENTS
+============================================================
+
+The college has the following academic departments:
+
+1. Department of Information Technology
+
+The Information Technology department focuses on software
+development, programming, databases, computer networks,
+web technologies, cybersecurity, cloud computing, and emerging
+technologies.
+
+Major areas of study include:
+
+- Programming
+- Data Structures and Algorithms
+- Database Management Systems
+- Computer Networks
+- Operating Systems
+- Web Development
+- Software Engineering
+- Cloud Computing
+- Cybersecurity
+- Artificial Intelligence
+- Machine Learning
+
+
+2. Department of Computer Science and Engineering
+
+The Computer Science and Engineering department focuses on
+computer science fundamentals, software engineering,
+programming, algorithms, artificial intelligence, and computer
+systems.
+
+Major areas include:
+
+- Programming
+- Data Structures
+- Algorithms
+- Operating Systems
+- Computer Networks
+- Database Systems
+- Artificial Intelligence
+- Machine Learning
+- Software Engineering
+- Computer Architecture
+
+
+3. Department of Electronics and Communication Engineering
+
+The Electronics and Communication Engineering department
+focuses on electronics, communication systems, embedded systems,
+digital systems, and signal processing.
+
+Major areas include:
+
+- Digital Electronics
+- Analog Electronics
+- Communication Systems
+- Microprocessors
+- Microcontrollers
+- Embedded Systems
+- Signal Processing
+- VLSI
+
+
+4. Department of Electrical and Electronics Engineering
+
+The Electrical and Electronics Engineering department focuses
+on electrical systems, electrical machines, power systems,
+control systems, and electronics.
+
+Major areas include:
+
+- Electrical Machines
+- Power Systems
+- Control Systems
+- Electrical Measurements
+- Power Electronics
+- Circuit Theory
+
+
+5. Department of Mechanical Engineering
+
+The Mechanical Engineering department focuses on mechanical
+systems, manufacturing, thermodynamics, engineering mechanics,
+and machine design.
+
+Major areas include:
+
+- Engineering Mechanics
+- Thermodynamics
+- Manufacturing Technology
+- Machine Design
+- Fluid Mechanics
+- Automobile Engineering
+- CAD and CAM
+
+
+6. Department of Civil Engineering
+
+The Civil Engineering department focuses on construction,
+structural engineering, transportation, environmental
+engineering, and infrastructure development.
+
+Major areas include:
+
+- Structural Engineering
+- Construction Technology
+- Surveying
+- Geotechnical Engineering
+- Transportation Engineering
+- Environmental Engineering
+- Hydraulics
+
+
+7. Department of Science and Humanities
+
+The Science and Humanities department provides foundational
+courses required for engineering students.
+
+Subjects may include:
+
+- Mathematics
+- Physics
+- Chemistry
+- English
+- Communication Skills
+- Professional Ethics
+
+
+============================================================
+4. COMPUTER LABORATORIES
+============================================================
+
+The college provides computer laboratories for programming,
+software development, practical sessions, projects, and
+technical training.
+
+Computer laboratories are equipped with desktop computers,
+internet connectivity, development tools, programming
+environments, and academic software.
+
+Computer laboratory facilities include:
+
+- Desktop computers
+- Internet connectivity
+- Programming environments
+- Web development tools
+- Database software
+- Operating system environments
+- Networking tools
+- Software development tools
+- Office productivity software
+
+Students can use the laboratories during scheduled laboratory
+sessions and authorized practice hours.
+
+Students must not install unauthorized software or modify
+laboratory systems without permission.
+
+
+============================================================
+5. INFORMATION TECHNOLOGY LABORATORIES
+============================================================
+
+The Information Technology department provides practical
+laboratories for students.
+
+Major laboratories include:
+
+1. Programming Laboratory
+
+Used for learning programming languages, data structures,
+algorithms, and software development.
+
+2. Database Laboratory
+
+Used for learning database design, SQL, database management,
+and application development.
+
+3. Web Technology Laboratory
+
+Used for developing websites and web applications.
+
+4. Networking Laboratory
+
+Used for learning computer networks, network configuration,
+protocols, and network troubleshooting.
+
+5. Software Engineering Laboratory
+
+Used for software development methodologies, testing,
+documentation, and project development.
+
+6. Artificial Intelligence Laboratory
+
+Used for introductory artificial intelligence, machine
+learning, data analysis, and related practical activities.
+
+
+============================================================
+6. ENGINEERING LABORATORIES
+============================================================
+
+The college provides practical laboratory facilities for
+engineering students.
+
+Major facilities include:
+
+- Physics Laboratory
+- Chemistry Laboratory
+- Electrical Laboratory
+- Electronics Laboratory
+- Communication Laboratory
+- Mechanical Workshop
+- Manufacturing Laboratory
+- Civil Engineering Laboratory
+- Computer Laboratory
+- Networking Laboratory
+
+
+============================================================
+7. LABORATORY RULES
+============================================================
+
+Students must follow laboratory safety and discipline rules.
+
+Students should:
+
+- Follow instructions given by laboratory faculty.
+- Handle equipment carefully.
+- Use computers only for authorized activities.
+- Keep laboratory equipment clean.
+- Report damaged equipment immediately.
+- Maintain laboratory records.
+- Follow scheduled laboratory timings.
+
+Students should not:
+
+- Damage laboratory equipment.
+- Remove equipment without authorization.
+- Install unauthorized software.
+- Change system configurations without permission.
+- Use laboratory systems for unauthorized activities.
+
+
+============================================================
+8. LIBRARY
+============================================================
+
+The college library provides academic resources for students,
+faculty, and staff.
+
+Library facilities include:
+
+- Engineering textbooks
+- Reference books
+- Competitive examination books
+- Journals
+- Newspapers
+- Magazines
+- Academic publications
+- Digital learning resources
+- Internet-enabled computers
+- Previous examination materials
+
+
+Library Working Hours:
+
+Monday to Friday:
+9:00 AM to 4:00 PM
+
+Saturday:
+Closed
+
+Sunday:
+Closed
+
+
+Students must carry their college identity card when using
+library services or borrowing books.
+
+Students must return borrowed books within the permitted
+borrowing period.
+
+Students should maintain silence inside the library.
+
+Students are responsible for books issued under their name.
+
+Lost or damaged books may require replacement or payment
+according to library regulations.
+
+
+============================================================
+9. LIBRARY SERVICES
+============================================================
+
+Students can use the library for:
+
+- Reading
+- Textbook borrowing
+- Reference study
+- Academic research
+- Competitive examination preparation
+- Digital learning
+- Accessing journals
+- Project research
+
+Students can approach the librarian for information about
+book availability, borrowing rules, renewal, and overdue books.
+
+
+============================================================
+10. TRANSPORTATION FACILITY
+============================================================
+
+The college provides bus transportation facilities for
+students and staff.
+
+College buses operate on designated routes connecting the
+campus with nearby towns and residential areas.
+
+Bus transportation is generally available on college working
+days.
+
+Transportation timings may vary depending on the route.
+
+
+General Morning Bus Timing:
+7:15 AM to 8:45 AM
+
+General Evening Departure:
+4:00 PM
+
+
+============================================================
+11. BUS ROUTES
+============================================================
+
+Route 1: Tuticorin Main Route
+
+Stops include:
+
+Tuticorin → Millerpuram → 3rd Mile → Thoothukudi Bypass
+→ College
+
+
+Route 2: North Route
+
+Stops include:
+
+Sathankulam → Thisayanvilai → Nazareth → Srivaikuntam
+→ College
+
+
+Route 3: South Route
+
+Stops include:
+
+Tiruchendur → Arumuganeri → Kayalpatnam → Authoor
+→ College
+
+
+Route 4: East Route
+
+Stops include:
+
+Tuticorin Old Bus Stand → Korampallam → Mappilaiurani
+→ College
+
+
+Route 5: Rural Route
+
+Stops include:
+
+Eral → Kurumbur → Alwarthirunagari → Srivaikuntam
+→ College
+
+
+The exact bus stop sequence and timings may change based on
+operational requirements.
+
+Students should contact the transportation coordinator for
+current route information.
+
+
+============================================================
+12. BUS FACILITY RULES
+============================================================
+
+Students using college transportation must follow bus rules.
+
+Students should:
+
+- Carry a valid college identity card.
+- Carry a valid bus pass when required.
+- Follow instructions from the driver and transportation staff.
+- Board and leave the bus only at designated stops.
+- Maintain discipline inside the bus.
+- Keep the bus clean.
+
+Students should not:
+
+- Stand near the entrance while the bus is moving.
+- Disturb the driver.
+- Damage bus property.
+- Throw objects outside the bus.
+- Engage in unsafe behavior.
+
+
+============================================================
+13. ATTENDANCE POLICY
+============================================================
+
+Students are required to maintain a minimum attendance of 75%.
+
+Students whose attendance falls below the prescribed minimum
+may not be permitted to appear for university examinations,
+subject to applicable university regulations.
+
+Attendance between 65% and 74% may be considered for
+condonation according to applicable university regulations.
+
+Students should regularly monitor their attendance.
+
+Attendance is recorded for both theory and practical classes.
+
+Students are responsible for maintaining sufficient attendance
+throughout the semester.
+
+
+============================================================
+14. LEAVE POLICY
+============================================================
+
+Students who require leave should submit a leave request to
+their class advisor or concerned department.
+
+General leave procedure:
+
+1. Inform the concerned faculty member.
+2. Submit the required leave application.
+3. Provide supporting documents if required.
+4. Obtain approval from the appropriate authority.
+
+Medical leave may require a valid medical certificate or
+supporting medical documents.
+
+Leave approval is subject to college and university rules.
+
+Students should understand that approved leave does not
+necessarily remove attendance requirements.
+
+
+============================================================
+15. EXAMINATION POLICY
+============================================================
+
+Students must follow all examination rules issued by the
+college and university.
+
+Students must carry their valid college identity card during
+examinations.
+
+Students should reach the examination hall at least 30 minutes
+before the scheduled examination.
+
+Students should:
+
+- Carry permitted writing materials.
+- Follow the assigned seating arrangement.
+- Follow instructions given by examination staff.
+- Maintain silence inside the examination hall.
+- Submit answer scripts according to examination instructions.
+
+
+Students must not carry unauthorized electronic devices,
+written materials, or other prohibited items into the
+examination hall.
+
+
+============================================================
+16. INTERNAL ASSESSMENT
+============================================================
+
+Internal assessment may include:
+
+- Internal examinations
+- Assignments
+- Laboratory performance
+- Record work
+- Seminars
+- Presentations
+- Projects
+- Attendance
+- Class participation
+
+The exact assessment pattern depends on the academic program
+and applicable university regulations.
+
+Students should contact their department for subject-specific
+assessment information.
+
+
+============================================================
+17. PLACEMENT CELL
+============================================================
+
+The college placement cell supports students in developing
+their employability skills and obtaining employment
+opportunities.
+
+Placement activities include:
+
+- Campus recruitment
+- Aptitude training
+- Technical training
+- Coding practice
+- Resume preparation
+- Communication training
+- Group discussions
+- Mock interviews
+- Technical interviews
+- HR interview preparation
+- Career guidance
+- Pre-placement talks
+
+
+============================================================
+18. PLACEMENT ELIGIBILITY
+============================================================
+
+Companies may specify their own eligibility requirements.
+
+Eligibility may depend on:
+
+- Academic performance
+- Number of arrears
+- Current backlogs
+- Graduation status
+- Technical skills
+- Communication skills
+- Required degree
+- Company-specific criteria
+
+Students should check the eligibility requirements announced
+for each individual recruitment drive.
+
+
+============================================================
+19. TRAINING AND DEVELOPMENT
+============================================================
+
+The college may organize training programs to improve students'
+technical and professional skills.
+
+Training programs may include:
+
+- Programming
+- Data Structures
+- Aptitude
+- Logical Reasoning
+- Communication Skills
+- Resume Building
+- Interview Skills
+- Group Discussion
+- Technical Workshops
+- Industry Sessions
+- Career Guidance
+
+
+============================================================
+20. SPORTS FACILITIES
+============================================================
+
+The college provides sports and recreational facilities for
+students.
+
+Facilities include:
+
+- Cricket
+- Football
+- Volleyball
+- Basketball
+- Badminton
+- Athletics
+- Table Tennis
+- Chess
+- Carrom
+
+Students can participate in sports activities according to
+college schedules and applicable rules.
+
+
+============================================================
+21. CANTEEN
+============================================================
+
+The college provides a campus canteen for students and staff.
+
+Canteen Working Hours:
+
+Monday to Friday:
+8:30 AM to 4:30 PM
+
+The canteen provides snacks, beverages, breakfast items,
+lunch, and other refreshments.
+
+Students should maintain cleanliness and discipline inside
+the canteen.
+
+
+============================================================
+22. SEMINAR HALL AND AUDITORIUM
+============================================================
+
+The college has seminar and auditorium facilities for academic
+and extracurricular activities.
+
+These facilities are used for:
+
+- Seminars
+- Workshops
+- Guest lectures
+- Conferences
+- Cultural programs
+- Placement activities
+- Technical events
+- Student activities
+
+Students must follow the instructions of faculty and event
+coordinators while using these facilities.
+
+
+============================================================
+23. STUDENT CLUBS
+============================================================
+
+Students can participate in various technical and
+extracurricular clubs.
+
+Examples include:
+
+- Coding Club
+- Robotics Club
+- Programming Club
+- Entrepreneurship Club
+- Literary Club
+- Cultural Club
+- Photography Club
+- Sports Club
+- Innovation Club
+
+Club activities may include workshops, competitions,
+hackathons, seminars, exhibitions, and student projects.
+
+
+============================================================
+24. ENTREPRENEURSHIP AND INNOVATION
+============================================================
+
+Students interested in entrepreneurship and innovation can
+participate in workshops, idea competitions, project
+exhibitions, and innovation activities.
+
+Students may receive guidance related to:
+
+- Startup ideas
+- Product development
+- Business models
+- Innovation
+- Project development
+- Entrepreneurship
+
+
+============================================================
+25. SCHOLARSHIPS
+============================================================
+
+Eligible students may apply for scholarships provided by
+government departments, universities, organizations, or other
+recognized institutions.
+
+Scholarship eligibility may depend on:
+
+- Academic performance
+- Family income
+- Category
+- Government eligibility rules
+- Required documentation
+
+Students should contact the college administrative office
+for current scholarship information and application procedures.
+
+
+============================================================
+26. ID CARD
+============================================================
+
+Students must carry their valid college identity card when
+required.
+
+The identity card may be required for:
+
+- Campus entry
+- Library access
+- Laboratory access
+- Examinations
+- College events
+- Bus transportation
+- Administrative services
+
+Students should report a lost identity card to the
+administrative office.
+
+
+============================================================
+27. CAMPUS DISCIPLINE
+============================================================
+
+Students are expected to maintain discipline throughout the
+campus.
+
+Students should:
+
+- Respect faculty and staff.
+- Respect fellow students.
+- Maintain campus cleanliness.
+- Protect college property.
+- Follow academic rules.
+- Follow laboratory safety rules.
+- Follow examination rules.
+- Follow transportation rules.
+
+Students may face disciplinary action for violating college
+rules.
+
+
+============================================================
+28. COMPUTER AND INTERNET USAGE
+============================================================
+
+College computer systems and internet facilities are provided
+primarily for academic and educational purposes.
+
+Students should use these facilities responsibly.
+
+Students must not:
+
+- Attempt unauthorized access.
+- Damage computer systems.
+- Install unauthorized software.
+- Distribute malicious software.
+- Access restricted systems without permission.
+- Misuse college network resources.
+
+
+============================================================
+29. STUDENT SUPPORT
+============================================================
+
+Students can contact the appropriate office or department for
+different types of assistance.
+
+Attendance:
+Class Advisor / Department Office
+
+Examination:
+Examination Cell
+
+Library:
+Library
+
+Transportation:
+Transportation Office
+
+Placement:
+Placement Cell
+
+Scholarships:
+Administrative Office
+
+Laboratory:
+Concerned Laboratory Faculty
+
+Academic Issues:
+Class Advisor / Head of Department
+
+General Administrative Issues:
+Administrative Office
+
+
+============================================================
+30. IMPORTANT OFFICE HOURS
+============================================================
+
+College Working Hours:
+9:00 AM to 4:00 PM
+
+Working Days:
+Monday to Friday
+
+Administrative Office:
+9:00 AM to 4:00 PM
+
+Examination Cell:
+9:00 AM to 4:00 PM
+
+Placement Cell:
+9:00 AM to 4:00 PM
+
+Library:
+9:00 AM to 4:00 PM
+
+
+============================================================
+31. FREQUENTLY ASKED QUESTIONS
+============================================================
+
+Q: What are the college working hours?
+
+A:
+The college working hours are 9:00 AM to 4:00 PM,
+Monday to Friday.
+
+
+Q: Is the college open on Saturday?
+
+A:
+The regular college working schedule is Monday to Friday.
+Saturday is a closed day.
+
+
+Q: Is the college open on Sunday?
+
+A:
+No. Sunday is a weekly holiday.
+
+
+Q: What is the minimum attendance requirement?
+
+A:
+Students are required to maintain a minimum attendance of 75%,
+subject to applicable university regulations.
+
+
+Q: Can attendance between 65% and 74% be condoned?
+
+A:
+Attendance between 65% and 74% may be considered for
+condonation according to applicable university regulations.
+
+
+Q: What time does the library open?
+
+A:
+The library operates from 9:00 AM to 4:00 PM,
+Monday to Friday.
+
+
+Q: Does the college provide bus transportation?
+
+A:
+Yes. The college provides transportation facilities through
+designated bus routes.
+
+
+Q: What time do college buses generally leave in the morning?
+
+A:
+Morning bus services generally operate between 7:15 AM and
+8:45 AM depending on the route.
+
+
+Q: What time do buses leave the college in the evening?
+
+A:
+The general evening departure time is around 4:00 PM.
+Exact timings depend on the route.
+
+
+Q: Which departments are available?
+
+A:
+The college has departments including Information Technology,
+Computer Science and Engineering, Electronics and Communication
+Engineering, Electrical and Electronics Engineering, Mechanical
+Engineering, Civil Engineering, and Science and Humanities.
+
+
+Q: Does the college have computer laboratories?
+
+A:
+Yes. The college provides computer laboratories for
+programming, databases, web technologies, networking,
+software engineering, and other practical activities.
+
+
+Q: Does the college have a placement cell?
+
+A:
+Yes. The placement cell provides placement assistance,
+training, interview preparation, aptitude training, and
+recruitment opportunities.
+
+
+Q: What should I carry to the examination hall?
+
+A:
+Students should carry their valid college identity card and
+other materials permitted by the examination authorities.
+
+
+Q: How early should I reach the examination hall?
+
+A:
+Students should reach the examination hall at least 30 minutes
+before the scheduled examination.
+
+
+Q: How can I apply for leave?
+
+A:
+Students should inform the concerned faculty member and
+submit the required leave application through their department.
+
+
+Q: Is a medical certificate required for medical leave?
+
+A:
+Medical leave may require supporting medical documents or a
+medical certificate.
+
+
+Q: Where should I go if I have an attendance problem?
+
+A:
+Students should contact their class advisor or department
+office.
+
+
+Q: Where should I go for examination-related questions?
+
+A:
+Students should contact the Examination Cell or their
+respective department.
+
+
+Q: Where should I go for placement-related questions?
+
+A:
+Students should contact the Placement Cell.
+
+
+Q: Where should I go for bus-related questions?
+
+A:
+Students should contact the Transportation Office.
+
+
+Q: Where should I go for library-related questions?
+
+A:
+Students should contact the Library.
+
+
+============================================================
+32. IMPORTANT INFORMATION
+============================================================
+
+Some information such as examination schedules, special event
+timings, bus timings, recruitment drives, and university
+regulations may change.
+
+Students should verify time-sensitive information through
+official college announcements or the appropriate department.
+
+The AI Student Support Assistant must not make up information.
+
+If a student asks for information that is not available in
+this knowledge base, the assistant should say:
+
+"I don't have enough information about that in the college
+knowledge base. Please contact the concerned college office
+for the latest information."
+
+
+============================================================
+END OF KNOWLEDGE BASE
+============================================================
